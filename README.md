@@ -5,4 +5,6 @@ The "Links for later" extension, is able to save actual urls in a list, so the u
 It can save any link inserted in the input filed or save the link of the current page
 For a matter security the "Delete all" button only works with double clicks
 
+This extension IS NOT published to the Chrome Web Store at the moment
+
 I've plans to improve this extension in the future.
